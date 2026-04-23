@@ -1,4 +1,9 @@
-// User function template for C++
+// Problem: Second Largest Element
+// Source: GFG
+// Approach: Single Pass (Tracking largest & second largest)
+// Time: O(n)
+// Space: O(1)
+
 class Solution {
   public:
     // Function returns the second
